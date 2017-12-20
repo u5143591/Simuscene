@@ -1,0 +1,167 @@
+@charset "UTF-8";
+
+@media (max-width: 918px){
+}
+
+.btn-sm1{
+	position: absolute;
+}
+.btn-sm{
+	position:absolute;
+}
+
+.btn1{
+	margin-left: 180px;
+	margin-top: 350px;
+}
+.btn2{
+	margin-left: 265px;
+	margin-top: 350px;
+}
+.btn3{
+	margin-left: 350px;
+	margin-top: 350px;
+}
+.btn4{
+	margin-left: 435px;
+	margin-top: 350px;
+}
+.btn-primary{
+	position: absolute;
+	height: 20px;
+	width: 35px;
+    margin-top: 8px;
+	margin-left: 710px;
+}
+.form-control{
+	position: absolute;
+	margin-left: 650px;
+	margin-top: 350px;
+}
+.btn-control{
+	position:absolute;
+	margin-left: 890px;
+	margin-top: 350px;
+}
+.titlepic{
+	position: absolute;
+	margin-top: 30px;
+	margin-left: 180px;
+}
+.pic1{
+	position: absolute;
+	margin-top: 450px;
+	margin-left: 230px;
+}
+.pic2{
+	position: absolute;
+	margin-top: 450px;
+	margin-left: 390px;
+}
+.pic3{
+	position: absolute;
+	margin-top: 450px;
+	margin-left: 550px;
+}
+.pic4{
+	position: absolute;
+	margin-top: 450px;
+	margin-left: 710px;
+}
+.pic5{
+	position: absolute;
+	margin-top: 450px;
+	margin-left: 870px;
+}
+.pic6{
+	position: absolute;
+	margin-top: 660px;
+	margin-left: 230px;
+}
+.pic7{
+	position: absolute;
+	margin-top: 660px;
+	margin-left: 390px;
+}
+.pic8{
+	position: absolute;
+	margin-top: 660px;
+	margin-left: 550px;
+}
+.pic9{
+	position: absolute;
+	margin-top: 660px;
+	margin-left: 710px;
+}
+.pic10{
+	position: absolute;
+	margin-top: 660px;
+	margin-left: 870px;
+}
+.line {
+	position: absolute;
+	margin-top: 150px;
+}
+.text{
+	position:absolute;
+	margin-top: 300px;
+	margin-left: 175px;
+}
+.footer{
+	position: absolute;
+	background-color: #000000;
+	color: #FFFFFF;
+	clear: both;
+	margin-top: 1200px;
+	width: 1280px;
+	height: 400px;
+	text-align: center;
+}
+.first{
+	position: absolute;
+	margin-left: 680px;
+	margin-top: 10px;
+}
+.second{
+	position: absolute;
+	margin-left: 760px;
+	margin-top: 10px;
+}
+.third{
+	position: absolute;
+	margin-left: 830px;
+	margin-top: 10px;
+}
+.forth{
+	position: absolute;
+	margin-top: 10px;
+	margin-left: 870px;
+}
+.fifth{
+	position: absolute;
+	margin-top: 10px;
+	margin-left: 920px;
+}
+.login{
+	position: absolute;
+	margin-left: 840px;
+}
+.airport{
+	position: absolute;
+	margin-top:30px;
+	margin-left: 610px;
+}
+.pageup{
+	position: absolute;
+	margin-top: 900px;
+	margin-left: 530px;
+}
+.pagedown{
+	position: absolute;
+	margin-top: 900px;
+	margin-left: 680px;
+}
+.body {
+	width: 1024px;
+	height: 1366px;
+}
